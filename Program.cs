@@ -70,7 +70,7 @@ class Program
         {
             Console.WriteLine("Поток {0} запущен", Thread.CurrentThread.ManagedThreadId);
             int i;
-            for (i = 0; i < 5000; i++)
+            for (i = 0; i < 100; i++)
             {
                 counter++;
                 Thread.Sleep(1);
