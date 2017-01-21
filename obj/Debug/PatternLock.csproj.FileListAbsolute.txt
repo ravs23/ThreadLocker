@@ -1,0 +1,6 @@
+c:\users\андрей\documents\visual studio 2015\Projects\Prof11\PatternLock\bin\Debug\PatternLock.exe.config
+c:\users\андрей\documents\visual studio 2015\Projects\Prof11\PatternLock\bin\Debug\PatternLock.exe
+c:\users\андрей\documents\visual studio 2015\Projects\Prof11\PatternLock\bin\Debug\PatternLock.pdb
+c:\users\андрей\documents\visual studio 2015\Projects\Prof11\PatternLock\obj\Debug\PatternLock.csprojResolveAssemblyReference.cache
+c:\users\андрей\documents\visual studio 2015\Projects\Prof11\PatternLock\obj\Debug\PatternLock.exe
+c:\users\андрей\documents\visual studio 2015\Projects\Prof11\PatternLock\obj\Debug\PatternLock.pdb
